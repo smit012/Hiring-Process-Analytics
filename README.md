@@ -29,7 +29,7 @@ After downloading the dataset, use Excel to answer the below questions:
 
 Your Task: Determine the gender distribution of hires. How many males and females have been hired by the company?
 
-**_B. Salary Analysis:_ **The average salary is calculated by adding up the salaries of a group of employees and then dividing the total by the number of employees.
+_**B. Salary Analysis:**_ The average salary is calculated by adding up the salaries of a group of employees and then dividing the total by the number of employees.
 
 Your Task: What is the average salary offered by this company? Use Excel functions to calculate this.
 
