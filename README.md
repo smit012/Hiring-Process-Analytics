@@ -1,6 +1,9 @@
 # Hiring-Process-Analytics
 Excel
 
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+
 **Description:**
 Imagine you're a data analyst at a multinational company like Google. Your task is to analyze the company's hiring process data and draw meaningful insights from it. The hiring process is a crucial function of any company, and understanding trends such as the number of rejections, interviews, job types, and vacancies can provide valuable insights for the hiring department.
 
@@ -15,8 +18,13 @@ As a data analyst, you'll be given a dataset containing records of previous hire
 
 Remember, the goal of this project is to use your knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. Your insights could potentially help the company improve its hiring process and make better hiring decisions in the future.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Data Analytics Tasks:**
 After downloading the dataset, use Excel to answer the below questions:
+
+
 _A. Hiring Analysis:_ The hiring process involves bringing new individuals into the organization for various roles.
 
 Your Task: Determine the gender distribution of hires. How many males and females have been hired by the company?
