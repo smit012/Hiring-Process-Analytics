@@ -25,7 +25,7 @@ Remember, the goal of this project is to use your knowledge of statistics and Ex
 After downloading the dataset, use Excel to answer the below questions:
 
 
-_A. Hiring Analysis:_ The hiring process involves bringing new individuals into the organization for various roles.
+**_A. Hiring Analysis:_** The hiring process involves bringing new individuals into the organization for various roles.
 
 Your Task: Determine the gender distribution of hires. How many males and females have been hired by the company?
 
