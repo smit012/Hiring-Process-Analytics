@@ -51,3 +51,11 @@ Your Task: Use a pie chart, bar graph, or any other suitable visualization to sh
 _**E. Position Tier Analysis:**_ Different positions within a company often have different tiers or levels.
 
 Your Task: Use a chart or graph to represent the different position tiers within the company. This will help you understand the distribution of positions across different tiers.
+
+
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+**[Download the Excel Sheet](https://github.com/smit012/Hiring-Process-Analytics/blob/main/EDA-Statistics.xlsx)**
+
