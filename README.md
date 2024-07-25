@@ -4,12 +4,14 @@ Excel
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-**Description:**
+#Description :
+
 Imagine you're a data analyst at a multinational company like Google. Your task is to analyze the company's hiring process data and draw meaningful insights from it. The hiring process is a crucial function of any company, and understanding trends such as the number of rejections, interviews, job types, and vacancies can provide valuable insights for the hiring department.
 
 As a data analyst, you'll be given a dataset containing records of previous hires. Your job is to analyze this data and answer certain questions that can help the company improve its hiring process.
 
-**Here's what you'll be doing:**
+##Here's what you'll be doing:
+
 **1)Handling Missing Data:** Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
 **2)Clubbing Columns:** If there are columns with multiple categories that can be combined, do so to simplify your analysis.
 **3)Outlier Detection:** Check for outliers in the dataset that may skew your analysis.
@@ -21,7 +23,8 @@ Remember, the goal of this project is to use your knowledge of statistics and Ex
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Data Analytics Tasks:**
+##Data Analytics Tasks:
+
 After downloading the dataset, use Excel to answer the below questions:
 
 
