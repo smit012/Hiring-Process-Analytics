@@ -57,5 +57,4 @@ Your Task: Use a chart or graph to represent the different position tiers within
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-**[ demo Excel ](https://github.com/smit012/Hiring-Process-Analytics/blob/main/EDA-Statistics.xlsx)**
 
