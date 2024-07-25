@@ -13,9 +13,13 @@ As a data analyst, you'll be given a dataset containing records of previous hire
 ## Here's what you'll be doing:
 
 **1)Handling Missing Data:** Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
+
 **2)Clubbing Columns:** If there are columns with multiple categories that can be combined, do so to simplify your analysis.
+
 **3)Outlier Detection:** Check for outliers in the dataset that may skew your analysis.
+
 **4)Removing Outliers:** Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
+
 **5)Data Summary:** After cleaning and preparing your data, summarize your findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
 
 Remember, the goal of this project is to use your knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. Your insights could potentially help the company improve its hiring process and make better hiring decisions in the future.
