@@ -1,6 +1,6 @@
 # Hiring-Process-Analytics
 Excel
-
+<br>
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
@@ -24,7 +24,7 @@ As a data analyst, you'll be given a dataset containing records of previous hire
 
 Remember, the goal of this project is to use your knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. Your insights could potentially help the company improve its hiring process and make better hiring decisions in the future.
 
-
+<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Analytics Tasks:
@@ -51,7 +51,9 @@ Your Task: Use a pie chart, bar graph, or any other suitable visualization to sh
 _**E. Position Tier Analysis:**_ Different positions within a company often have different tiers or levels.
 
 Your Task: Use a chart or graph to represent the different position tiers within the company. This will help you understand the distribution of positions across different tiers.
-
+<br>
+<hr>
+<hr>
 
 
 
